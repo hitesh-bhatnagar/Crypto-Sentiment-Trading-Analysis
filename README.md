@@ -63,11 +63,4 @@ This project explores the relationship between **Bitcoin market sentiment** (bas
 - Traders show slightly higher profit during periods of "Greed".
 - Buy vs. sell ratios remain fairly balanced across sentiment groups.
 
----
 
-## 🧪 How to Run
-
-1. Clone the repo:
-   ```bash
-   [git clone https://github.com/your-username/Crypto-Sentiment-Trading-Analysis.git](https://github.com/hitesh-bhatnagar/Crypto-Sentiment-Trading-Analysis.git)
-   cd Crypto-Sentiment-Trading-Analysis
